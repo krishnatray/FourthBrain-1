@@ -1,5 +1,6 @@
 .DS_Store
 Kaggle/data/
+Kaggle/data.hdf5
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
